@@ -1,6 +1,5 @@
 import os, random
 randwords = ["Tree", "Green", "Purple", "Walter", "Emo"]
-os.system('cat thisiswhatchanges.txt')
 
 file1 = open("thisiswhatchanges.txt", "w") # change file
 random.shuffle(randwords)
