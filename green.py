@@ -10,7 +10,3 @@ file1.close()
 os.system('git add .')
 os.system(f'git commit -m "{random.choice(randwords)}"')
 os.system('git push')
-
-# git add .
-# git commit -m "random name i guess"
-# git push
